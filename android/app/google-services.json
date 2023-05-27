@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "441082331685",
+    "firebase_url": "https://hello-tractor-f7256-default-rtdb.firebaseio.com",
+    "project_id": "hello-tractor-f7256",
+    "storage_bucket": "hello-tractor-f7256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441082331685:android:b3f097dca93826e79675cc",
+        "android_client_info": {
+          "package_name": "com.HelloTractor.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441082331685-mgl58p282pamqdh08743bbreeofthgdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPzBiGPicp4Y-p6kBZjKgdqgnXzChyv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441082331685-mgl58p282pamqdh08743bbreeofthgdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441082331685:android:76a134f552bb92869675cc",
+        "android_client_info": {
+          "package_name": "com.HelloTractor.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441082331685-mgl58p282pamqdh08743bbreeofthgdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPzBiGPicp4Y-p6kBZjKgdqgnXzChyv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441082331685-mgl58p282pamqdh08743bbreeofthgdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
